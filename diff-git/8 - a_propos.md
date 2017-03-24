@@ -1,15 +1,15 @@
 ## À propos de la LICENCE OUVERTE
 
-Etalab est la mission chargée sous l’autorité du Premier ministre d’ouvrir le plus grand nombre de données publiques des administrations de l’Etat et de ses établissements publics.
+La présente a été élaborée par la direction interministérielle du numérique et du système d’information de l’Etat (DINSIC).
 
-Elle a réalisé la Licence Ouverte pour faciliter la réutilisation libre et gratuite de ces informations publiques, telles que définies par l’article 10 de la loi n°78-753 du 17 juillet 1978.
+Elle a vocation à faciliter la réutilisation libre et gratuite des informations publiques et, à ce titre, figure parmi les licences mentionnées dans le décret pris en application de l’article L.323-2 du CRPA.
 
-Dans le cadre de leurs missions de service public, les administrations produisent ou reçoivent des informations publiques qui peuvent être réutilisées par toute personne physique ou morale à d’autres fins que celles de la mission de service public.
+La « réutilisation » est l’utilisation des Informations à d’autres fins que celles de la mission de service public pour les besoins de laquelle les documents précités ont été produits ou reçus.
 
-Ne sont pas des informations publiques au sens de la loi du 17 juillet 1978 les informations contenues dans des documents 
-dont la communication ne constitue pas un droit (en application de la loi du 17 juillet 1978 ou d’autres dispositions législatives, sauf si ces informations font l’objet d’une diffusion publique), celles contenues dans des documents produits ou reçus par les administrations dans l’exercice d’une mission de service public à caractère industriel ou commercial, 
-et celles contenues dans des documents sur lesquels des tiers détiennent des droits de propriété intellectuelle.
+Ne sont pas des « informations publiques » les informations figurant dans un document :
+- dont la communication ne constitue pas un droit pour toute personne (sauf s’il a fait l'objet d'une diffusion publique conforme aux articles L.312-1 à L.312-1-2 du CRPA)
+- sur lequel un tiers détient des droits de propriété intellectuelle, au sens du code de la propriété intellectuelle (Pour l’exploitation de ces informations, le Réutilisateur doit obtenir les autorisations nécessaires auprès des auteurs ou de leurs ayants-droit. Sans ces autorisations, l’usager qui a obtenu la copie d’un document sur lequel des tiers détiennent des droits de propriété intellectuelle ne peut en faire que les usages prévus à l’article L. 122-5 du code de la propriété intellectuelle).
 
-Ne sont également pas des informations publiques susceptibles d’être réutilisées celles qui contiennent des données à caractère personnel, sauf lorsque les personnes intéressées y ont consenti, ou lorsqu’elles ont fait l’objet d’une anonymisation par l’administration, ou lorsqu’une disposition légale ou réglementaire le permet (dans ces trois cas, la réutilisation est subordonnée au respect de la loi n°78-17 du 6 janvier 1978).
+Est une donnée à caractère personnel toute information se rapportant à une personne physique identifiée ou identifiable, pouvant être identifiée directement ou indirectement.
 
-Cette licence est une version 1.0 de la Licence Ouverte. Etalab se réserve la faculté de proposer de nouvelles versions de la Licence Ouverte. Cependant, les réutilisateurs pourront continuer à réutiliser les informations disponibles sous cette licence s’ils le souhaitent.
+Elle succède, et vient se substituer, à la « Licence Ouverte » élaborée par Etalab en octobre 2011.

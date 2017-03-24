@@ -1,21 +1,21 @@
-## Définitions
+## ø
 
-### Droits de propriété intellectuelle
+### ø
 
-Il s’agit des droits identifiés comme tels par le Code de la propriété intellectuelle (droit d’auteur, droits voisins au droit d’auteur, droit sui generis des bases de données).
+ø
 
-### Information
+### ø
 
-Il s’agit des données ou des informations proposées à la réutilisation dans les libertés et les conditions de cette licence.
+Sont des « informations publiques », (ci-après « les Informations ») des informations figurant dans des documents communiqués ou publiés par les administrations mentionnées au premier alinéa de l’article L.300-2 du CRPA (ci-après « l’Administration »).
 
-### Informations dérivées
+### ø
 
-Il s’agit des nouvelles données ou informations qui ont été créés soit directement à partir « d’Informations », soit à partir d’une combinaison « d’Informations » et d’autres données ou informations qui ne seraient pas soumises à cette licence.
+ø
 
-### Producteur
+### ø
 
-Il s’agit de l’entité qui produit « l’Information » et l’ouvre à la réutilisation dans les libertés et les conditions prévues par cette licence.
+ø
 
-### Réutilisateur
+### ø
 
-Il s’agit de toute personne physique ou morale qui réutilise « l’Information » conformément aux libertés et aux conditions de cette licence.
+Est un Réutilisateur, toute personne physique ou morale qui réutilise les Informations conformément aux conditions de la présente licence.
