@@ -1,14 +1,14 @@
-# LICENCE OUVERTE / OPEN LICENCE
+# LICENCE OUVERTE ADMINISTRATIONS
 
 
 Le droit de la réutilisation des informations publiques est régi par le code des relations entre le public et l’administration (CRPA).
 
 Sont des « informations publiques », (ci-après « les Informations ») des informations figurant dans des documents communiqués ou publiés par les administrations mentionnées au premier alinéa de l’article L.300-2 du CRPA (ci-après « l’Administration »).
 
-Ne sont pas des « informations publiques » les informations figurant dans un document :
+Cette licence ne couvre donc pas les informations figurant dans un document :
 
 - dont la communication ne constitue pas un droit pour toute personne (sauf s’il a fait l'objet d'une diffusion publique conforme aux articles L.312-1 à L.312-1-2 du CRPA)
-- sur lequel un tiers détient des droits de propriété intellectuelle, au sens du code de la propriété intellectuelle (Pour l’exploitation de ces informations, le Réutilisateur doit obtenir les autorisations nécessaires auprès des auteurs ou de leurs ayants-droit. Sans ces autorisations, l’usager qui a obtenu la copie d’un document sur lequel des tiers détiennent des droits de propriété intellectuelle ne peut en faire que les usages prévus à l’article L. 122-5 du code de la propriété intellectuelle).
+- sur lequel un tiers détient des droits de propriété intellectuelle, au sens du code de la propriété intellectuelle.
 
 La « réutilisation » est l’utilisation des Informations à d’autres fins que celles de la mission de service public pour les besoins de laquelle les documents précités ont été produits ou reçus.
 
@@ -23,9 +23,9 @@ Vous pouvez réutiliser, dans les conditions prévues par la présente licence, 
 L’Administration concède au Réutilisateur un droit non exclusif et gratuit de réutilisation des Informations soumises à la présente licence, dans le monde entier et pour une durée illimitée, dans conditions exprimées ci-dessous.
 
 Vous êtes libre de réutiliser les Informations :
-- de les reproduire, les copier, les publier et les transmettre ;
-- de les diffuser et les redistribuer;
-- de les adapter, les modifier, les extraire et les transformer ;
+- de les reproduire, les copier,
+- de les adapter, les modifier, les extraire et les transformer,
+- de les diffuser, les redistribuer, les publier et transmettre (y compris sous cette même licence),
 - de les exploiter à titre commercial.
 
 Sous réserve que :
@@ -34,9 +34,9 @@ Sous réserve que :
 
 ## Données à caractère personnel
 
-La réutilisation des Informations comportant des données à caractère personnel, ou ne comportant pas de telles données mais ayant pour objet ou pour effet de réidentifier des personnes physiques, est soumise au respect de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
+Dans les cas de réutilisation des Informations comportant des données à caractère personnel, ou ne comportant pas de telles données mais ayant pour objet ou pour effet de réidentifier des personnes physiques, celle-ci est soumise au respect de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
 
-À ce titre, le Réutilisateur doit accomplir toute formalité nécessaire auprès de la commission nationale de l’informatique et des libertés.
+Ainsi, le Réutilisateur devra accomplir toute formalité nécessaire auprès de la commission nationale de l’informatique et des libertés.
 
 L’Administration ne peut être tenue pour responsable du non-respect par le Réutilisateur des obligations prévues par la loi du 6 janvier 1978 précitée.
 
@@ -56,17 +56,15 @@ La réutilisation accordée au titre de la présente licence ne confère aucun c
 
 ## Droit applicable et sanctions
 
-La présente licence est régie par le droit français. En cas de non-respect de ses dispositions, le Réutilisateur s’expose notamment aux sanctions définies à l’article L. 326-1 du code des relations entre le public et l’administration et, le cas échéant, aux articles 45 et suivants de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
+La présente licence est régie par le droit français. En cas de non-respect de ces dispositions, le Réutilisateur s’expose notamment aux sanctions définies à l’article L. 326-1 du code des relations entre le public et l’administration et, le cas échéant, aux articles 45 et suivants de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
 
 
-## À propos de la LICENCE OUVERTE
+## À propos de la LICENCE OUVERTE ADMINISTRATIONS
 
-La présente a été élaborée par la direction interministérielle du numérique et du système d’information de l’Etat (DINSIC).
+La présente licence a été élaborée par la direction interministérielle du numérique et du système d’information de l’Etat (DINSIC).
 
 Elle a vocation à faciliter la réutilisation libre et gratuite des informations publiques et, à ce titre, figure parmi les licences mentionnées dans le décret pris en application de l’article L.323-2 du CRPA.
 
-Elle succède, et vient se substituer, à la « Licence Ouverte » élaborée par Etalab en octobre 2011.
-
-Pour faciliter la réutilisation des « Informations », cette licence a été conçue pour être compatible avec toute licence libre qui exige a minima la mention de paternité. Elle est notamment compatible avec les licences « Open Government Licence » (OGL) du Royaume-Uni, « Creative Commons Attribution » (CC-BY) de Creative Commons et « Open Data Commons Attribution » (ODC-BY) de l’Open Knowledge Foundation dans leur version en vigueur.
+Pour faciliter la réutilisation des « Informations », cette licence a été conçue pour être compatible avec toute licence libre qui exige a minima la mention de paternité. Elle est notamment compatible avec les licences « Open Government Licence » (OGL) du Royaume-Uni, « Creative Commons Attribution » (CC-BY) de Creative Commons et « Open Data Commons Attribution » (ODC-BY) de l’Open Knowledge Foundation et la Licence Ouverte.
 
 Bien que l’échange d’Informations entre administrations ne constitue par une Réutilisation, la présente licence peut être utilisée pour les cas visés à l’article 1 er de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique.
