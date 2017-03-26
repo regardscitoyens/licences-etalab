@@ -3,9 +3,9 @@
 L’Administration concède au Réutilisateur un droit non exclusif et gratuit de réutilisation des Informations soumises à la présente licence, dans le monde entier et pour une durée illimitée, dans conditions exprimées ci-dessous.
 
 Vous êtes libre de réutiliser les Informations :
-- de les reproduire, les copier, les publier et les transmettre ;
-- de les diffuser et les redistribuer;
-- de les adapter, les modifier, les extraire et les transformer ;
+- de les reproduire, les copier,
+- de les adapter, les modifier, les extraire et les transformer,
+- de les diffuser, les redistribuer, les publier et transmettre (y compris sous cette même licence),
 - de les exploiter à titre commercial.
 
 Sous réserve que :
