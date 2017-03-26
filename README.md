@@ -17,7 +17,9 @@ Afin d'alimenter le débat juridique autour des différentes versions de la « L
 ## Analyses de compatibilité avec les licences reconnues
 
 - [Réutilisations OpenData possibles avec la Licence Ouverte 2011](https://github.com/regardscitoyens/licences-etalab/blob/master/LO2011/LO2011_compatibilite.md)
-- [Réutilisations publiques possibles avec la Licence Ouverte Limitée 2017](https://github.com/regardscitoyens/licences-etalab/blob/master/LOL2017/LOL2017_compatibilite.md)
+- [Réutilisations publiques possibles avec la Licence Ouverte Limitée 2017 du 20 mars 2017](https://github.com/regardscitoyens/licences-etalab/blob/master/LOL2017/LOL2017_compatibilite.md)
+- [Réutilisations publiques possibles avec la Licence Ouverte Limitée 2017 v2 du 24 mars 2017](https://github.com/regardscitoyens/licences-etalab/blob/master/LOL2017v2/LOL2017v2_compatibilite.md)
+
 
 ## Mentions légales
 
